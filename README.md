@@ -34,6 +34,9 @@ The OS can be tested using QEMU:
 ```bash
 make run
 ```
-
+## Author
+RONEL TCHOULAYEU
+C++/QT DEVELOPER, EMBEDDED SYSTEMS
+contact: jordanprog@yahoo.fr
 ## License
 This project is open source and available under the MIT License. 
