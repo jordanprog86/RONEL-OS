@@ -1,6 +1,8 @@
 # RONEL OS
 
 A simple operating system written in C++ that boots up and runs a calculator program.
+You can build it on Linux or Ubuntu
+## DEMO
 
 ## Features
 - Custom bootloader
