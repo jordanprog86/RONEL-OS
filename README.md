@@ -2,8 +2,8 @@
 
 A simple operating system written in C++ that boots up and runs a calculator program.
 You can build it on Linux or Ubuntu
-## DEMO
-
+## Demo
+![Screencast from 05-21-2025 10_27_53 AM](https://github.com/user-attachments/assets/f450ba85-f30f-405a-8779-ebad34356884)
 ## Features
 - Custom bootloader
 - Simple kernel
